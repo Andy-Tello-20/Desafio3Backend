@@ -1,0 +1,15 @@
+{
+  "name": "preentrega3",
+  "version": "1.0.0",
+  "description": "peticion de JSON con id y reponder en pantalla",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
